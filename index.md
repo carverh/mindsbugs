@@ -1,0 +1,1 @@
+# Minds Bug Reports
